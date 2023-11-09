@@ -1,0 +1,1334 @@
+repo_name: gmth6789/test-framework
+report_id: d83e5fed6e20e8e9230e1bb4492dfd73
+repo_type: Public
+timestamp: '2023-11-09T15:40:21+00:00'
+requested_by: mehaotian
+provider: github
+branch: master
+detected_tools_count: 96
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source: uniapp-vue3/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 3.11.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: uniapp-vue3/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source: uniapp-vue3/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 9.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.42.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: kbone/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: uniapp-vue3/yarn.lock
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:55:46.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: cssnano
+  description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
+  website_url: http://cssnano.co/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro-next/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro-next/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@types/webpack-env"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack-env
+  version: 1.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro-next/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.26.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro-next/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: uni-app-v3/yarn.lock
+  detection_source: uni-app/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2021-05-19 02:24:21.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 4.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: uni-app-v3/yarn.lock
+  detection_source: uni-app/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2021-05-19 02:24:21.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 8.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-helper-vue-jsx-merge-props
+  description: Babel helper for vue jsx spread
+  package_url: https://www.npmjs.com/babel-helper-vue-jsx-merge-props
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16292/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-plugin-dynamic-import-node
+  description: Babel plugin to transpile import
+  package_url: https://www.npmjs.com/babel-plugin-dynamic-import-node
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-plugin-import
+  description: Component modular import plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-import
+  version: 1.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: uni-app-v3/yarn.lock
+  detection_source: uni-app/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2021-05-19 02:24:21.000000000 Z
+- name: babel-plugin-syntax-jsx
+  description: Allow parsing of jsx
+  package_url: https://www.npmjs.com/babel-plugin-syntax-jsx
+  version: 6.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16079/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-plugin-transform-class-properties
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/babel-plugin-transform-class-properties
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: babel-plugin-transform-decorators-legacy
+  description: A plugin for Babel 6 that
+  package_url: https://www.npmjs.com/babel-plugin-transform-decorators-legacy
+  version: 1.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16040/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: taro/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: babel-plugin-transform-es2015-modules-commonjs
+  description: This plugin transforms ES2015 modules to CommonJS
+  package_url: https://www.npmjs.com/babel-plugin-transform-es2015-modules-commonjs
+  version: 6.26.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16037/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-plugin-transform-export-extensions
+  description: Compile export extensions to ES2015
+  package_url: https://www.npmjs.com/babel-plugin-transform-export-extensions
+  version: 6.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16505/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: taro/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:55:46.000000000 Z
+- name: babel-plugin-transform-object-rest-spread
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/babel-plugin-transform-object-rest-spread
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15880/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: babel-plugin-transform-runtime
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/babel-plugin-transform-runtime
+  version: 6.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-plugin-transform-vue-jsx
+  description: Babel plugin for Vue 2.0 JSX
+  package_url: https://www.npmjs.com/babel-plugin-transform-vue-jsx
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16213/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-preset-stage-2
+  description: Babel preset for stage 2 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-2
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15891/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: babel-register
+  description: Babel require hook
+  package_url: https://www.npmjs.com/babel-register
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: babel-runtime
+  description: Babel selfContained runtime
+  package_url: https://www.npmjs.com/babel-runtime
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15861/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: connect-history-api-fallback
+  description: Provides a fallback for non-existing directories so that the HTML 5
+    history API can be used
+  package_url: https://www.npmjs.com/connect-history-api-fallback
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16214/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: wepy/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 11.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-friendly-formatter
+  description: Simple formatter/reporter for eslint that's friendly with Sublime Text
+    and iterm2 'click to open file' functionality
+  package_url: https://www.npmjs.com/eslint-friendly-formatter
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16184/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-import-resolver-webpack
+  description: Resolve paths to dependencies, given a webpack.config.js
+  package_url: https://www.npmjs.com/eslint-import-resolver-webpack
+  version: 0.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16302/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-loader
+  description: ESlint loader for webpack
+  package_url: https://www.npmjs.com/eslint-loader
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: eventsource-polyfill
+  description: A browser polyfill for W3C EventSource
+  package_url: https://www.npmjs.com/eventsource-polyfill
+  version: 0.9.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16253/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: mpvue/package.json
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: extract-text-webpack-plugin
+  description: Extract text from bundle into a file
+  package_url: https://www.npmjs.com/extract-text-webpack-plugin
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15855/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: mpvue/package.json
+  detection_source: mpvue/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2020-04-03 10:25:55.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 1.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: friendly-errors-webpack-plugin
+  description: Recognizes certain classes of webpack errors and cleans
+  package_url: https://www.npmjs.com/friendly-errors-webpack-plugin
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16091/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: http-proxy-middleware
+  description: The one-liner node.js proxy middleware for connect
+  package_url: https://www.npmjs.com/http-proxy-middleware
+  version: 0.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: less-loader
+  description: A Less loader for webpack. Compiles Less to CSS
+  package_url: https://www.npmjs.com/less-loader
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: node-notifier
+  description: A Node.js module for sending notifications on native Mac
+  package_url: https://www.npmjs.com/node-notifier
+  version: 5.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16146/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+  vulnerabilities:
+  - name: OS Command Injection in node-notifier
+    cve_id: CVE-2020-7789
+    cve_url: https://github.com/advisories/GHSA-5fw9-fq32-wv5p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 8.0.1
+- name: optimize-css-assets-webpack-plugin
+  description: A Webpack plugin to optimize \ minimize CSS assets
+  package_url: https://www.npmjs.com/optimize-css-assets-webpack-plugin
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: ora
+  description: Elegant terminal spinner
+  package_url: https://www.npmjs.com/ora
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+- name: portfinder
+  description: A simple tool to find an open port on the current machine
+  package_url: https://www.npmjs.com/portfinder
+  version: 1.0.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16183/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 2.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: taro-next/yarn.lock
+  detection_source: taro-next/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-05-14 12:13:22.000000000 Z
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: uni-app/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: mpvue/package.json
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: thread-loader
+  description: Runs the following loaders in a worker pool
+  package_url: https://www.npmjs.com/thread-loader
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17547/default_809f38c280e61a39329e5ca5d8a16d8966425895.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: uglifyjs-webpack-plugin
+  description: UglifyJS plugin for webpack
+  package_url: https://www.npmjs.com/uglifyjs-webpack-plugin
+  version: 1.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15953/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: taro/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2020-04-03 10:25:55.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 0.5.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: uniapp-vue3/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vue-i18n
+  description: Internationalization plugin for Vue.js
+  package_url: https://www.npmjs.com/vue-i18n
+  version: 9.1.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: uniapp-vue3/yarn.lock
+  detection_source: uniapp-vue3/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2022-05-27 09:53:19.000000000 Z
+- name: vue-loader
+  description: "&gt; webpack loader for Vue Single-File Components"
+  package_url: https://www.npmjs.com/vue-loader
+  version: 15.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 3.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vue-style-loader
+  description: Vue.js style loader module for webpack
+  package_url: https://www.npmjs.com/vue-style-loader
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16024/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: uni-app/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: vuex-router-sync
+  description: Effortlessly keep vue-router and vuex store in sync
+  package_url: https://www.npmjs.com/vuex-router-sync
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18765/default_4b8a871129a1fca372f6c4ecf6122d69f99e54b1.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: uni-app-v3/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2020-04-03 10:25:55.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
