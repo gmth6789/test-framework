@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/test-framework is built on the following main stack:
+
 - [PHP](http://www.php.net/) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
@@ -21,11 +22,13 @@ gmth6789/test-framework is built on the following main stack:
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/test-framework is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
@@ -45,14 +48,15 @@ gmth6789/test-framework is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/test-framework](https://github.com/gmth6789/test-framework)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|96<br/>Tools used|11/09/23 <br/>Report generated|
+|98<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -263,9 +267,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (73)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (75)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (73)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (75)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -295,9 +299,11 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-stage-2](https://www.npmjs.com/babel-preset-stage-2)|v6.24.1|04/04/20|mehaotian |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|03/26/19|mehaotian |MIT|N/A|
 |[babel-runtime](https://www.npmjs.com/babel-runtime)|v6.26.0|04/03/20|mehaotian |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|03/26/19|mehaotian |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.6.0|03/26/19|mehaotian |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v5.1.1|04/04/20|mehaotian |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v6.0.3|04/04/20|mehaotian |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.10|04/04/20|mehaotian |MIT|N/A|
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v11.3.2|04/04/20|mehaotian |MIT|N/A|
 |[eslint-friendly-formatter](https://www.npmjs.com/eslint-friendly-formatter)|v3.0.0|04/04/20|mehaotian |MIT|N/A|
 |[eslint-import-resolver-webpack](https://www.npmjs.com/eslint-import-resolver-webpack)|v0.8.4|04/04/20|mehaotian |MIT|N/A|
@@ -346,4 +352,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
