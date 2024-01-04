@@ -1,11 +1,12 @@
 repo_name: gmth6789/test-framework
 report_id: d83e5fed6e20e8e9230e1bb4492dfd73
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:40:21+00:00'
+timestamp: '2024-01-04T15:00:54+00:00'
 requested_by: mehaotian
 provider: github
 branch: master
-detected_tools_count: 96
+detected_tools_count: 98
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/gmth6789/test-framework
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gmth6789/test-framework
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/gmth6789/test-framework
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/gmth6789/test-framework
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -67,7 +73,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
-  detection_source: uniapp-vue3/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/package.json
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: ExpressJS
@@ -81,7 +88,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -95,8 +102,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: React
@@ -109,8 +116,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: Vue.js
@@ -123,8 +130,8 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: uniapp-vue3/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: css-loader
@@ -136,7 +143,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/package.json
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: vuex
@@ -148,7 +156,8 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/6705/6128107.png
-  detection_source: uniapp-vue3/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/package.json
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: Babel
@@ -161,8 +170,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/.babelrc
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: ESLint
@@ -174,7 +183,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/package.json
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: Git
@@ -185,6 +195,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gmth6789/test-framework
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -194,6 +205,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -207,7 +219,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -221,8 +233,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: Webpack
@@ -235,8 +247,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: kbone/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: Yarn
@@ -247,7 +259,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
-  detection_source: uniapp-vue3/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/yarn.lock
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: npm
@@ -258,6 +271,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/wepy/package.json
   detection_source: wepy/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:55:46.000000000 Z
@@ -267,6 +281,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -276,7 +291,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/package.json
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: "@babel/core"
@@ -289,7 +305,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
@@ -303,7 +319,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
@@ -317,8 +333,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: "@types/webpack-env"
@@ -331,8 +347,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
@@ -345,7 +361,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
@@ -359,7 +375,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
@@ -373,8 +389,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: uni-app-v3/yarn.lock
-  detection_source: uni-app/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/uni-app-v3/yarn.lock
+  detection_source: uni-app-v3/package.json
   last_updated_by: mehaotian
   last_updated_on: 2021-05-19 02:24:21.000000000 Z
 - name: "@vue/cli-service"
@@ -387,8 +403,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: uni-app-v3/yarn.lock
-  detection_source: uni-app/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/uni-app-v3/yarn.lock
+  detection_source: uni-app-v3/package.json
   last_updated_by: mehaotian
   last_updated_on: 2021-05-19 02:24:21.000000000 Z
 - name: babel-core
@@ -401,8 +417,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-eslint
@@ -415,8 +431,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-helper-vue-jsx-merge-props
@@ -429,7 +445,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16292/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -443,8 +459,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-plugin-dynamic-import-node
@@ -457,7 +473,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -471,8 +487,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: uni-app-v3/yarn.lock
-  detection_source: uni-app/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/uni-app-v3/yarn.lock
+  detection_source: uni-app-v3/package.json
   last_updated_by: mehaotian
   last_updated_on: 2021-05-19 02:24:21.000000000 Z
 - name: babel-plugin-syntax-jsx
@@ -485,7 +501,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16079/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -500,8 +516,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: taro/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-03 10:18:54.000000000 Z
 - name: babel-plugin-transform-decorators-legacy
@@ -514,8 +530,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16040/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
-  detection_source_url: taro/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro/yarn.lock
+  detection_source: taro/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-03 10:18:54.000000000 Z
 - name: babel-plugin-transform-es2015-modules-commonjs
@@ -528,7 +544,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16037/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -542,7 +558,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16505/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: taro/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro/yarn.lock
   detection_source: wepy/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:55:46.000000000 Z
@@ -556,8 +572,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15880/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: taro/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-03 10:18:54.000000000 Z
 - name: babel-plugin-transform-runtime
@@ -570,8 +586,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-plugin-transform-vue-jsx
@@ -584,7 +600,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16213/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -598,8 +614,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-preset-stage-2
@@ -612,8 +628,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15891/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: babel-register
@@ -626,7 +642,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -640,10 +656,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15861/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: taro/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-03 10:18:54.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: mpvue/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2019-03-26 03:51:26.000000000 Z
 - name: connect-history-api-fallback
   description: Provides a fallback for non-existing directories so that the HTML 5
     history API can be used
@@ -655,7 +685,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16214/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -669,8 +699,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: cross-env
@@ -683,8 +713,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: wepy/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
+  last_updated_by: mehaotian
+  last_updated_on: 2020-04-04 10:04:18.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 4.1.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: eslint-config-airbnb-base
@@ -697,7 +741,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -712,7 +756,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16184/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -726,7 +770,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16302/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -740,7 +784,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -754,8 +798,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: eslint-plugin-react
@@ -768,8 +812,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: eslint-plugin-react-hooks
@@ -782,8 +826,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: taro-next/yarn.lock
-  detection_source: taro/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
+  detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
 - name: eslint-plugin-vue
@@ -796,7 +840,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -810,7 +854,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16253/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
-  detection_source_url: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -824,7 +868,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -845,7 +889,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15855/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2020-04-03 10:25:55.000000000 Z
@@ -859,8 +903,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: friendly-errors-webpack-plugin
@@ -873,8 +917,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16091/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: glob
@@ -887,7 +931,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -901,8 +945,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: http-proxy-middleware
@@ -915,7 +959,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -929,7 +973,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -943,7 +987,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -957,7 +1001,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -971,7 +1015,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16146/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -992,8 +1036,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: ora
@@ -1006,7 +1050,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -1020,8 +1064,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16183/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: postcss-loader
@@ -1034,8 +1078,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: react-dom
@@ -1048,7 +1092,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: taro-next/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro-next/yarn.lock
   detection_source: taro-next/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-05-14 12:13:22.000000000 Z
@@ -1062,8 +1106,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: uni-app/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: taro/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-03 10:18:54.000000000 Z
 - name: rimraf
@@ -1076,8 +1120,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: shelljs
@@ -1090,7 +1134,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/mpvue/package.json
   detection_source: mpvue/package.json
   last_updated_by: mehaotian
   last_updated_on: 2019-03-26 03:51:26.000000000 Z
@@ -1117,7 +1161,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1131,7 +1175,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17547/default_809f38c280e61a39329e5ca5d8a16d8966425895.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1145,7 +1189,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1159,7 +1203,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15953/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: taro/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/taro/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2020-04-03 10:25:55.000000000 Z
@@ -1173,8 +1217,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: vue
@@ -1187,8 +1231,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: uniapp-vue3/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: vue-i18n
@@ -1201,7 +1245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16963/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: uniapp-vue3/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/uniapp-vue3/yarn.lock
   detection_source: uniapp-vue3/package.json
   last_updated_by: mehaotian
   last_updated_on: 2022-05-27 09:53:19.000000000 Z
@@ -1215,7 +1259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1229,7 +1273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1243,8 +1287,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16024/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: vue-template-compiler
@@ -1257,8 +1301,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: uni-app/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
 - name: vuex-router-sync
@@ -1271,7 +1315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18765/default_4b8a871129a1fca372f6c4ecf6122d69f99e54b1.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1286,7 +1330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: uni-app-v3/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/uni-app-v3/yarn.lock
   detection_source: mpvue/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2020-04-03 10:25:55.000000000 Z
@@ -1300,7 +1344,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1314,7 +1358,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: kbone/yarn.lock
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
   detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
@@ -1328,7 +1372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: kbone/yarn.lock
-  detection_source: mpvue/package.json
+  detection_source_url: https://github.com/gmth6789/test-framework/blob/master/kbone/yarn.lock
+  detection_source: kbone/package.json
   last_updated_by: mehaotian
   last_updated_on: 2020-04-04 10:04:18.000000000 Z
